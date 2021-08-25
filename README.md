@@ -1,5 +1,3 @@
-#js/README.md
-
 ### <strong>Hi</strong> 👋 <Im Jéssyca Borges> 👾
 
 I'm a student of Software Engineer at Estacio-Iesam, and junior programmer analyst at Eicon Brasil, and I've been working in tech since
