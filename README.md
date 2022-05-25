@@ -1,4 +1,4 @@
-### <strong>Hi</strong> 👋 <Im Jéssyca Borges> 👾
+### <strong>Hi</strong> 👋 <Im js> 👾
 
 I'm a student of Software Engineer at Estacio-Iesam, and programmer analyst at Eicon Brasil, and I've been working in tech since
 2018. I'm from Brazil, currently live Belém, I like to be called &lt;Js&gt;
